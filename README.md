@@ -27,7 +27,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-Findlinks.urls_from_file('/home/steink/websites/lapizistik/lapiz.istik.de/index.html')
+Findlinks.urls_from_file('/path/to/html/file.html')
 ```
 
 ## Development
