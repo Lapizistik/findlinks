@@ -34,7 +34,7 @@ EOT
   spec.require_paths = ["lib"]
 
   spec.required_ruby_version = '>= 2.1'
-  spec.add_development_dependency "bundler", "~> 1.16"
+  spec.add_development_dependency "bundler"
   spec.add_development_dependency "rake", "~> 12.3"
   spec.add_development_dependency "minitest", "~> 5.0"
   spec.add_development_dependency "pry"
